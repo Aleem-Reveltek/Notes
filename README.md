@@ -46,4 +46,7 @@ Freelance Manager<br>
 
 - I will do kaizen what we need and what we don't like I will not care about people I will care about work
 
-- I will talk to people and I will tell them we have lots of issues on GitHub 
+- I will talk to people and I will tell them we have lots of issues on GitHub.
+---
+
+
