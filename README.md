@@ -102,3 +102,27 @@ Freelance Manager<br>
 6. Communicating with stakeholders: A contract manager is responsible for communicating with stakeholders, including clients, vendors, and internal teams, to ensure      that everyone is informed of the terms and conditions of contracts.
 
 7. Advising management: A contract manager must advise management on contract related matters, ensuring that the organization's best interests are protected, and that    contract decisions align with the company's objectives.
+
+---
+
+- [x] Focus Hive Onboarding 
+- [x] Welcome Chat
+- [x] Super Lounge Chat
+- [x] OktoPods
+
+- Welcome group is for newcomers and not part of RevelTek we will just give them warm welcome.
+- Super Loung is for fun.
++ OktoPods are for external people, and they need to work They can choose which projects they want to work on on their own, make bids, and form their own teams. 
+
+
+- RevelTek Onboarding
+- Tech Therapy
+- RevelTek Lounge 
+- RT Custom Oktopod
+
+* We will tell them what they need to do and will pay them salary and they will work for us.
++ Tech Therapy is for people who are internal and they can tell us which kind of Tech problem they have so we can help them.
+- RevelTek Lounge is for fun.
+- RT Custom Oktopod we will tell them what they need to do.
+
+
