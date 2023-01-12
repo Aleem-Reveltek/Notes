@@ -105,10 +105,10 @@ Freelance Manager<br>
 
 ---
 
-- [x] Focus Hive Onboarding 
-- [x] Welcome Chat
-- [x] Super Lounge Chat
-- [x] OktoPods
+- Focus Hive Onboarding 
+- Welcome Chat
+- Super Lounge Chat
+- OktoPods
 
 - Welcome group is for newcomers and not part of RevelTek we will just give them warm welcome.
 - Super Loung is for fun.
