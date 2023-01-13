@@ -125,4 +125,12 @@ Freelance Manager<br>
 - RevelTek Lounge is for fun.
 - RT Custom Oktopod we will tell them what they need to do.
 
+---
+
+Meeting 
+
+- I will hire that people who are interested doing working with us they should be curies while they working.
+- We will bring 10-20 people in our organization, there basic salary will 20k to 25k, I need to hire people until March.
+
+
 
