@@ -132,5 +132,8 @@ Meeting
 - I will hire that people who are interested doing working with us they should be curies while they working.
 - We will bring 10-20 people in our organization, there basic salary will 20k to 25k, I need to hire people until March.
 
+---
+
+[Ignite Curiosity link to book me](https://outlook.office365.com/owa/calendar/coaching@ignitecuriosity.org/bookings/)
 
 
