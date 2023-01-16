@@ -134,6 +134,6 @@ Meeting
 
 ---
 
-[Ignite Curiosity link to book me](https://outlook.office365.com/owa/calendar/coaching@ignitecuriosity.org/bookings/)
+[book.ignitecuriosity.org](https://outlook.office365.com/owa/calendar/coaching@ignitecuriosity.org/bookings/)
 
 
