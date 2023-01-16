@@ -30,7 +30,7 @@
 
 - I will hunt people 
 
-- I will talk to people on GitHub talk about project
+- I will talk to people on GitHub, talk about project
 
 - I will talk to people we fired like Hammad and Hammad will tell me price and I will go back to Remy and then if line go to green so he can work on that project when he goanna finish the project will pay him.
 
