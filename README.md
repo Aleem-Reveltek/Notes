@@ -136,4 +136,52 @@ Meeting
 
 [book.ignitecuriosity.org](https://outlook.office365.com/owa/calendar/coaching@ignitecuriosity.org/bookings/)
 
+---
 
+We can give flyer in universities we have opportunity's for Raza and Zary.
+
+Learning dynamic 365
+
+GitHub
+
+Dynamic
+
+When Chacha G give task complete it first 
+
+Create task on GitHub give the time how much this task going to take estimate in agile and see what Mr. Hackney expecting from you.
+
+---
+
+Don't work in stress 
+
+Work slowly 
+
+When ever manger give you task tell them how much time its gonna take 
+
+---
+
+Proper Management <br>
+ What ratio of the 3 <br>
+QQQs are you looking for?<br>
+
+Quantity?<br>
+Quality?<br>
+Quickness?<br>
+What priority is this task?<br>
+What complexity or estimate is the task?<br>
+Is this task a higher priority than ________ (other task already assigned)<br>
+Is there already Requirement Engineering completed?<br>
+If so, where is it stored?<br>
+
+---
+
+What is the deadline, if any, for this task?What milestone or Epic does this task sit inside?<br>
+What transport does the task belong to?<br>
+
+Where should I complete this task?<br>
+
+Github<br>
+Dream Hub<br>
+SharePoint<br>
+On PaperIn the fieldother?<br>
+Do I need any petty cash to start this task?Who will my task buddies be?<br>
