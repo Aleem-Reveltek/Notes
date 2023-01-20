@@ -190,3 +190,7 @@ Who will my task buddies be?<br>
 In Timmsi people use smile method 
 
  logic app Low-Code
+ 
+ ---
+ 
+ onalom stack in live onalom we us to get out of it in the zigzag we straggle and blossom is succeed in your life  
