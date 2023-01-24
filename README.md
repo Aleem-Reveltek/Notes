@@ -164,14 +164,18 @@ Proper Management <br>
  What ratio of the 3 <br>
 QQQs are you looking for?<br>
 
+
+
 Quantity?<br>
 Quality?<br>
 Quickness?<br>
-What priority is this task?<br>
-What complexity or estimate is the task?<br>
-Is this task a higher priority than ________ (other task already assigned)<br>
-Is there already Requirement Engineering completed?<br>
-If so, where is it stored?<br>
+What priority is this task? <br>
+What complexity or estimate is the task? <br>
+Is this task a higher priority than ________ (other task already assigned) <br>
+Is there already Requirement Engineering completed? <br>
+If so, where is it stored? <br>
+
+
 
 ---
 
