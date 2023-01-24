@@ -205,3 +205,11 @@ Step 3: Check Completeness. ...<br>
 Step 4: Analyze, Refine, and Decompose Requirements. ...<br>
 Step 5: Verify and Validate Requirements. ...<br>
 Step 6: Manage Requirements.<br>
+
+---
+
+1. I'll chat with the candidate over WhatsApp.
+
+2. I will discuss Outlook with candidates.
+
+3. I'll make a WhatsApp call to the applicant.
