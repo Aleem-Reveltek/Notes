@@ -213,3 +213,10 @@ Step 6: Manage Requirements.<br>
 2. I will discuss Outlook with candidates.
 
 3. I'll make a WhatsApp call to the applicant.
+
+---
+
+- Chacha G will not hire anyone if they want to join us they need to do pull requeste.
+- People need to join Curiosity Hive group.
+- I will fouces on the poeple Samim
+- WHen ever someone give you the task you need to do that and report to back him .
