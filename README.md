@@ -220,3 +220,8 @@ Step 6: Manage Requirements.<br>
 - People need to join Curiosity Hive group.
 - I will fouces on the poeple Samim
 - WHen ever someone give you the task you need to do that and report to back him .
+
+
+---
+
+I will make list what I'm teaching to people to new hires. and I will make Markdown file and I will teach 
