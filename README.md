@@ -2,7 +2,7 @@
 
 ## Tuesday Notes 
 
-- [x] Zary ask me to write the steps about my training. 
+- [x] Company ask me to write the steps about my training. 
 
 - [x] In Step One: You need to stay in dream and we help you to take action in your job titail which kind of job sute you. 
 
