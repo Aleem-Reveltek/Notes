@@ -225,5 +225,3 @@ Step 6: Manage Requirements.<br>
 ---
 
 I will make list what I'm teaching to people to new hires. and I will make Markdown file and I will teach 
-
-I 
