@@ -224,4 +224,9 @@ Step 6: Manage Requirements.<br>
 
 ---
 
-I will make list what I'm teaching to people to new hires. and I will make Markdown file and I will teach 
+I will make list what I'm teaching to people to new hires. and I will make Markdown file and I will teach
+
+---
+
+- I will tell people we are AI company.
+   - We build so many Apps like Foucs App and Zee and Marisa
