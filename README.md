@@ -233,20 +233,20 @@ I will make list what I'm teaching to people to new hires. and I will make Markd
    
    ---
    
-   I will 
+   
 
-I when you clock in you need reply to person who texting in group 
+- I when you clock in you need reply to person who texting in group 
 
-I will make on more github markdown file and add Onboarding/ Training 0.1.md
+- I will make on more github markdown file and add Onboarding/ Training 0.1.md
 
-New training should 
+- New training should 
 
-you don't need to call private 
+- you don't need to call private 
 
-you need to call channel
+- you need to call channel
 
-you don't need to text private 
+- you don't need to text private 
 
-you need to create binnace 
+- you need to create binnace 
 
-I will add screen shot 
+- I will add screen shot.
