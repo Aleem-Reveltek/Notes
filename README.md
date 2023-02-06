@@ -164,8 +164,6 @@ Proper Management <br>
  What ratio of the 3 <br>
 QQQs are you looking for?<br>
 
-
-
 Quantity?<br>
 Quality?<br>
 Quickness?<br>
