@@ -232,8 +232,6 @@ I will make list what I'm teaching to people to new hires. and I will make Markd
    - We build so many Apps like Foucs App and Zee and Marisa
    
    ---
-   
-   
 
 - I when you clock in you need reply to person who texting in group 
 
