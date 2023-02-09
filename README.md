@@ -8,11 +8,11 @@
 
 - [x] In Step Two: You need to get your digree ATD 2 year expreanes. 
 
-- [x] For Zary: Learn how to steal.
+- [x] For: Learn how to steal.
 
 - [x] I will learn about how to take notes properly.
 
-- [x] For Zary: When you are stealing you need to give the links.
+- [x] For: When you are stealing you need to give the links.
 
 ---
 
@@ -42,7 +42,7 @@ Procurement Officer<br>
 Contract Manager<br>
 Freelance Manager<br> 
 
-- Umer will be the project manager and I will reported back to Umer 
+- Umer will be the project manager and I will reported back to company
 
 - I will do kaizen what we need and what we don't like I will not care about people I will care about work
 
@@ -102,29 +102,6 @@ Freelance Manager<br>
 6. Communicating with stakeholders: A contract manager is responsible for communicating with stakeholders, including clients, vendors, and internal teams, to ensure      that everyone is informed of the terms and conditions of contracts.
 
 7. Advising management: A contract manager must advise management on contract related matters, ensuring that the organization's best interests are protected, and that    contract decisions align with the company's objectives.
-
----
-
-- Focus Hive Onboarding 
-- Welcome Chat
-- Super Lounge Chat
-- OktoPods
-
-- Welcome group is for newcomers and not part of RevelTek we will just give them warm welcome.
-- Super Loung is for fun.
-+ OktoPods are for external people, and they need to work They can choose which projects they want to work on on their own, make bids, and form their own teams. 
-
-
-- RevelTek Onboarding
-- Tech Therapy
-- RevelTek Lounge 
-- RT Custom Oktopod
-
-* We will tell them what they need to do and will pay them salary and they will work for us.
-+ Tech Therapy is for people who are internal and they can tell us which kind of Tech problem they have so we can help them.
-- RevelTek Lounge is for fun.
-- RT Custom Oktopod we will tell them what they need to do.
-
 ---
 
 Meeting 
@@ -214,7 +191,7 @@ Step 6: Manage Requirements.<br>
 
 ---
 
-- Chacha G will not hire anyone if they want to join us they need to do pull requeste.
+-I will not hire anyone if they want to join us they need to do pull requeste.
 - People need to join Curiosity Hive group.
 - I will fouces on the poeple Samim
 - WHen ever someone give you the task you need to do that and report to back him .
