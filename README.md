@@ -225,3 +225,7 @@ I will make list what I'm teaching to people to new hires. and I will make Markd
 - I will add screen shot.
 
 - If you are working on some thing or if your boss give you a task so you need to shift on that project and leave the previous one and if your boss or your manger text you in your shift time need to reply them immediately 
+
+---
+
+https://github.com/WorldEnterpriseGroup/reveltek/tree/gh-pages/files
