@@ -232,10 +232,38 @@ https://github.com/WorldEnterpriseGroup/reveltek/tree/gh-pages/files
 
 ---
 
-In this space, I will talk about my current situation.
+In the **Space**, I will talk about my current situation.
 
-and on track, I will write about what my road map is.
+On **Track**, I will write about what my road map is.
 
-In order to assist, I will tell you my milestone and how I'm going to steal it.
+In **Assist**, I will telling my milestone and how I'm going to steal it.
 
-I will describe the impact I had on the company in my reach.
+In **Reach** describe the impact I had on the company 
+
+The name of the meeting is TitsShow.
+
+
+We will observe how to steal
+
+How are they going to
+
+
+will know how they are stealing.
+
+
+I will tell them how to steal.
+
+
+I'll work on the roadmap to stay on track.
+
+
+In my reach, I will talk about what my assistance
+
+
+I will talk about the project only.
+
+
+I'll get the road back on track.
+
+
+
