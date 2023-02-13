@@ -278,5 +278,16 @@ ULAL
 I will do commits 20 and push it do it pull requeste 
 
 
+---
 
+Introducing Tit Bit Tuesdays, the weekly session designed to help you become a master thief! Learn the tricks of the trade, hone your skills and get tips from experienced professionals to become the thief of your dreams. With Tit Bit Tuesdays, you'll get the tools and guidance you need to become a master of thievery. So join us every Tuesday and become the thief you always wanted to be! Our sessions will help you learn Microsoft 365, Office skills, master copy/paste skills, and how to cheat while using Artificial Intelligence such as OpenAI. Become a tit today and start taking control of your destiny.
+
+---
+
+
+"Join us for the ultimate test of skills in the world of thievery! The Tit-Bit Tuesdays is a competition where aspiring thieves showcase their abilities to creatively acquire information and ideas from top companies. In a world where knowledge is power, the TIT contestants must demonstrate their cunning and stealth as they compete to become the ultimate master thief. This exciting and challenging event is held every Tuesday and is sure to thrill and entertain audiences as they watch the competitors push the limits of their abilities. Get ready for a night of edge-of-your-seat action as the next generation of thieves takes the stage!"
+
+---
+
+Introducing Tit Bit Tuesdays, the weekly session designed to help you become a master thief! Learn the tricks of the trade, hone your skills and get tips from experienced professionals to become the thief of your dreams. With Tit Bit Tuesdays, you'll get the tools and guidance you need to become a master of thievery. So join us every Tuesday and become the thief you always wanted to be! learning every Tuesday at our training center. Our expert instructors will teach you all the tips and tricks you need to become a successful tit (thief in training). You'll learn skills such as lock-picking, pickpocketing, and more. Plus, our instructors will provide you with a safe and comfortable learning environment. So come and join us for Tit Bit Tuesdays and become a master tit in no time!
 
