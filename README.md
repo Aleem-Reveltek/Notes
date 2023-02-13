@@ -229,3 +229,13 @@ I will make list what I'm teaching to people to new hires. and I will make Markd
 ---
 
 https://github.com/WorldEnterpriseGroup/reveltek/tree/gh-pages/files
+
+---
+
+In this space, I will talk about my current situation.
+
+and on track, I will write about what my road map is.
+
+In order to assist, I will tell you my milestone and how I'm going to steal it.
+
+I will describe the impact I had on the company in my reach.
