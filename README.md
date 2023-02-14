@@ -230,6 +230,8 @@ I will make list what I'm teaching to people to new hires. and I will make Markd
 
 https://github.com/WorldEnterpriseGroup/reveltek/tree/gh-pages/files
 
+https://github.com/WorldEnterpriseGroup/reveltek/blob/gh-pages/Notes/Best%20Profiles.md
+
 ---
 
 In the **Space**, I will talk about my current situation.
