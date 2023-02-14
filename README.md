@@ -293,3 +293,7 @@ Introducing Tit Bit Tuesdays, the weekly session designed to help you become a m
 
 Introducing Tit Bit Tuesdays, the weekly session designed to help you become a master thief! Learn the tricks of the trade, hone your skills and get tips from experienced professionals to become the thief of your dreams. With Tit Bit Tuesdays, you'll get the tools and guidance you need to become a master of thievery. So join us every Tuesday and become the thief you always wanted to be! learning every Tuesday at our training center. Our expert instructors will teach you all the tips and tricks you need to become a successful tit (thief in training). You'll learn skills such as lock-picking, pickpocketing, and more. Plus, our instructors will provide you with a safe and comfortable learning environment. So come and join us for Tit Bit Tuesdays and become a master tit in no time!
 
+---
+
+https://github.com/WorldEnterpriseGroup/reveltek/blob/gh-pages/Notes/Best%20Profiles.md
+
