@@ -299,7 +299,6 @@ https://github.com/WorldEnterpriseGroup/reveltek/blob/gh-pages/Notes/Best%20Prof
 
 ---
 
-```
 Rev
 
 - The Space Reveltek is a small company, but the method we use can make us top best company in the world, so why does our method make us the best company in the world - because the method we use is also used by the top 10 best companies that use it
