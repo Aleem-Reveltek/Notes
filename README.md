@@ -333,3 +333,7 @@ Rev
   ---
   
   https://github.com/WorldEnterpriseGroup/timmsi/blob/main/README.md
+
+---
+
+[book.Timmsi.com](https://outlook.office365.com/owa/calendar/Timmsi1@focushive.com/bookings/)
